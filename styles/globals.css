@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .bg-brand-primary {
+      background-color: #03c366;
+    }
+    .bg-brand-secondary {
+      background-color: #03793e;
+    }
+  }
